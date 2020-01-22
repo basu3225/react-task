@@ -10,7 +10,7 @@ class App extends Component {
 		title: "XXceed Community",
 		data: {
 			name: "Basu",
-			salutation: "Mr"
+			salutation: "Mr."
 		}
 	};
 	handleName = () => {
